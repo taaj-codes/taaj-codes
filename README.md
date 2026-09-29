@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I'm Taaj 👋
 
-<!--
-**taaj-codes/taaj-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at Swinburne (INTI Malaysia), learning software development by building real projects.
 
-Here are some ideas to get you started:
+## 🛠️ What I'm working on
+- A POS and inventory system for a copier business
+- A personal knowledge system in Obsidian
+- University projects in C++ and web development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently learning
+- Data structures and design patterns
+- Software testing
+- Web development
+
+## 📫 Find me
+[LinkedIn](https://linkedin.com/in/taaj-codes)
